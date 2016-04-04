@@ -11,6 +11,8 @@
   "dependencies": {
     "express": "~4.13.4",
     "body-parser": "~1.15.0",
-    "mongoose": "~4.4.11"
+    "mongoose": "~4.4.11",
+    "bcrypt-nodejs": "0.0.3",
+    "jsonwebtoken": "~5.7.0"
   }
 }
